@@ -28,7 +28,7 @@ PromptForge is a lightweight, single-file HTML app that takes your raw "word vom
 
 If PromptForge saves you time, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/nicksterj26)
 
 Every coffee keeps this project going and motivates new features. Thank you! 🙏
 
